@@ -4,5 +4,5 @@ import numpy as np
 chat_id = 433193277
 
 def solution(x: np.array) -> float:
-    x = array.mean() / 86 
+    x = np.array.mean() / 86 
     return x.mean()
