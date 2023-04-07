@@ -4,4 +4,4 @@ import numpy as np
 chat_id = 433193277
 
 def solution(x: np.array) -> float:
-    return x.median() / 86 ** 2
+    return np.median(x) / 86 ** 2
